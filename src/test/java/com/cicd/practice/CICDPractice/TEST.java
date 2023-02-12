@@ -15,7 +15,7 @@ public class TEST {
 
 		System.out.println("this is just to test method6");
 
-		System.out.println("this is just to test method7");
+		System.out.println("this is just to test method8");
 
 	}
 
