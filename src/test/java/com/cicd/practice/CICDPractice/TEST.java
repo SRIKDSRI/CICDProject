@@ -9,5 +9,10 @@ public class TEST {
 		
 		System.out.println("this is just to test method1");
 	}
+	
+	public void testMethod2() {
+		
+		System.out.println("this is just to test method2");
+	}
 
 }
