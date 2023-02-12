@@ -12,7 +12,7 @@ public class TEST {
 	
 	public void testMethod2() {
 		
-		System.out.println("this is just to test method5");
+		System.out.println("this is just to test method6");
 	}
 
 }
